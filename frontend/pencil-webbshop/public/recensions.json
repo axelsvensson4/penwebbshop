@@ -1,0 +1,72 @@
+[
+  {
+    "rating": 5,
+    "name": "Astrid",
+    "age": 34,
+    "review_title": "Jag skulle kunna skriva en roman om den här pennan.",
+    "review_text": "Jag köpte en penna. Sedan köpte jag tre till. Jag vet inte riktigt vad som hände, men jag ångrar ingenting. De skriver så fint att jag börjat skriva ner saker jag egentligen inte behöver skriva ner. 10/10."
+  },
+  {
+    "rating": 5,
+    "name": "Johan",
+    "age": 42,
+    "review_title": "Min gamla penna är numera arbetslös.",
+    "review_text": "Jag trodde ärligt talat att en penna var en penna. Jag hade fel. Den här skriver så mjukt att jag nästan började skriva under mina mejl med \"Med vänliga hälsningar\" igen."
+  },
+  {
+    "rating": 5,
+    "name": "Maja",
+    "age": 27,
+    "review_title": "Äntligen en penna som överlever mitt kaos.",
+    "review_text": "Jag tappar pennor. Ofta. Väldigt ofta. Den här har överlevt både handväskan, soffan, bilen och tre veckor i botten av en flyttkartong. Jag är imponerad. Pennan är tydligen gjord av starkare material än jag själv."
+  },
+  {
+    "rating": 5,
+    "name": "Fredrik",
+    "age": 38,
+    "review_title": "Jag skulle bara köpa EN.",
+    "review_text": "Gick in på sidan för att köpa en penna. Kom ut med fem. Min sambo har frågor. Jag har inga svar. Men jag har väldigt bra pennor."
+  },
+  {
+    "rating": 5,
+    "name": "Linnea",
+    "age": 31,
+    "review_title": "Min handstil har inte blivit bättre. Men den ser bättre ut.",
+    "review_text": "Viktig skillnad. Jag skriver fortfarande som en stressad läkare med dålig tid. Men med den här pennan känns det åtminstone professionellt."
+  },
+  {
+    "rating": 5,
+    "name": "Oskar",
+    "age": 45,
+    "review_title": "Pennan gjorde mötet 17 % mindre tråkigt.",
+    "review_text": "Kan inte lova att pennan förbättrade mötet. Men jag skrev väldigt mycket anteckningar och såg extremt fokuserad ut. Ingen märkte att jag egentligen ritade små dinosaurier i marginalen."
+  },
+  {
+    "rating": 5,
+    "name": "Elin",
+    "age": 29,
+    "review_title": "Jag har hittat MIN penna.",
+    "review_text": "Ni vet när man provar en massa och plötsligt bara klickar det? Så var det här. Perfekt vikt, perfekt känsla och ett bläck som bara flyter. Jag och min penna har nu ett exklusivt förhållande."
+  },
+  {
+    "rating": 5,
+    "name": "Henrik",
+    "age": 51,
+    "review_title": "Min son tog min penna. Det här är ett problem.",
+    "review_text": "Jag köpte pennan till mig själv. Min son lånade den. Han vägrar lämna tillbaka den. Jag överväger att beställa en ny och gömma den. Tack för ett oväntat familjedrama."
+  },
+  {
+    "rating": 5,
+    "name": "Sofia",
+    "age": 36,
+    "review_title": "Snabb leverans och alldeles för trevlig penna.",
+    "review_text": "Paketet kom snabbt, pennan var snygg och den skriver fantastiskt. Jag har egentligen inget negativt att säga. Det känns nästan misstänkt. Kommer definitivt handla här igen."
+  },
+  {
+    "rating": 5,
+    "name": "Viktor",
+    "age": 40,
+    "review_title": "Jag visste inte att jag var en pennperson.",
+    "review_text": "Tydligen är jag det. Jag trodde att folk som hade åsikter om pennor var lite speciella. Nu har jag själv åsikter om pennor. Jag har till och med en favorit. Vad har ni gjort med mig?"
+  }
+]

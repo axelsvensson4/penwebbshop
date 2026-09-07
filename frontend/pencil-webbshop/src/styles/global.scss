@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Montserrat:wght@400;500;600;700&display=swap');
+
+// Globala designvariabler. Använd Vuetifys färgnamn (primary, secondary osv.)
+// i komponenter och dessa variabler i vanlig SCSS/CSS.
+
+:root {
+  --app-radius-sm: 2px;
+  --app-radius-md: 4px;
+  --app-radius-lg: 8px;
+  --app-shadow-sm: 0 10px 40px -10px rgb(6 44 33 / 12%);
+  --app-content-width: 1440px;
+  --app-transition: 240ms ease;
+  --app-font-display: 'Libre Caslon Text', Georgia, serif;
+  --app-font-body: Montserrat, Arial, sans-serif;
+}
+
+.v-theme--light {
+  --app-primary: #001f16;
+  --app-secondary: #d4af37;
+  --app-background: #f5f1e7;
+  --app-surface: #f5f1e7;
+  --app-text: #1b1c1b;
+  --app-text-muted: #414845;
+  --app-border: #c1c8c3;
+}
+
+.v-theme--dark {
+  --app-primary: #d4af37;
+  --app-secondary: #d4af37;
+  --app-background: #0c1110;
+  --app-surface: #16201c;
+  --app-text: #f3f0ef;
+  --app-text-muted: #c1c8c3;
+  --app-border: #d4af37;
+}
+
+html {
+  background: var(--app-background);
+}
+
+body {
+  min-width: 320px;
+  font-family: var(--app-font-body);
+  background: var(--app-background);
+  color: var(--app-text);
+  transition: background-color var(--app-transition), color var(--app-transition);
+}
+
+h1,
+h2,
+h3,
+.text-h1,
+.text-h2,
+.text-h3,
+.text-h4,
+.text-h5,
+.text-h6 {
+  font-family: var(--app-font-display) !important;
+}
+
+.v-application,
+.v-main {
+  background-color: rgb(var(--v-theme-background));
+  color: rgb(var(--v-theme-on-background));
+}
+
+.v-app-bar,
+.v-footer {
+  background-color: rgb(var(--v-theme-surface));
+  color: rgb(var(--v-theme-on-surface));
+}
+
+.v-card {
+  border-radius: var(--app-radius-md);
+  background-color: rgb(var(--v-theme-surface));
+  color: rgb(var(--v-theme-on-surface));
+  box-shadow: var(--app-shadow-sm);
+}
+
+.v-btn {
+  font-family: var(--app-font-body);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: none;
+}
+
+.v-btn--variant-elevated,
+.v-btn--variant-flat {
+  transition: background-color var(--app-transition), color var(--app-transition), box-shadow var(--app-transition);
+}
+
+.v-btn--variant-flat.bg-primary {
+  color: rgb(var(--v-theme-on-primary));
+}

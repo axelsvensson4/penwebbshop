@@ -1,0 +1,383 @@
+[
+  {
+    "product": "Fungitor",
+    "name": "Anna",
+    "title": "Över förväntan!",
+    "text": "Pennan kom avbruten på mitten, men det gjorde den mycket smidigare att använda. Perfekt storlek för små anteckningar!",
+    "rating": 5,
+    "date": "2026-07-01"
+  },
+  {
+    "product": "Fungitor",
+    "name": "Erik",
+    "title": "Innovativ design",
+    "text": "Jag trodde först att pennan var trasig, men insåg sedan att det måste vara en ny minimalistisk design. Väldigt lätt att bära med sig.",
+    "rating": 5,
+    "date": "2026-07-03"
+  },
+  {
+    "product": "Fungitor",
+    "name": "Maja",
+    "title": "Fantastisk kundupplevelse",
+    "text": "Pennan var avbruten redan vid leverans. Otroligt spännande! Man vet aldrig riktigt vad man får när man beställer här.",
+    "rating": 5,
+    "date": "2026-07-05"
+  },
+  {
+    "product": "Fungitor",
+    "name": "Johan",
+    "title": "Kompakt och praktisk",
+    "text": "Två delar istället för en — dubbelt så många pennor, enligt min matematik. Rekommenderas varmt!",
+    "rating": 5,
+    "date": "2026-07-07"
+  },
+  {
+    "product": "Fungitor",
+    "name": "Sofia",
+    "title": "Precis vad jag behövde",
+    "text": "Den går inte riktigt att skriva med längre, men den är fortfarande väldigt snygg på skrivbordet. Fem stjärnor för estetiken!",
+    "rating": 5,
+    "date": "2026-07-09"
+  },
+  {
+    "product": "Fungitor",
+    "name": "Oskar",
+    "title": "Unik produkt",
+    "text": "Har aldrig tidigare ägt en penna som bokstavligen delar på sig. Känns exklusivt och nytänkande.",
+    "rating": 5,
+    "date": "2026-07-11"
+  },
+  {
+    "product": "Fungitor",
+    "name": "Elin",
+    "title": "Perfekt present",
+    "text": "En avbruten penna är en present som verkligen väcker frågor. Ingen kommer att glömma den i första taget.",
+    "rating": 5,
+    "date": "2026-07-13"
+  },
+  {
+    "product": "Fungitor",
+    "name": "Fredrik",
+    "title": "Överraskande hållbar",
+    "text": "Jag tappade pennan och upptäckte att den redan var avbruten. Inget mer gick sönder! Imponerande hållbarhet.",
+    "rating": 5,
+    "date": "2026-07-15"
+  },
+  {
+    "product": "Fungitor",
+    "name": "Linnea",
+    "title": "Mycket nöjd",
+    "text": "Den är avbruten på mitten, men båda delarna är fortfarande med. Det tycker jag visar på bra kvalitet.",
+    "rating": 5,
+    "date": "2026-07-17"
+  },
+  {
+    "product": "Fungitor",
+    "name": "Viktor",
+    "title": "Fem stjärnor!",
+    "text": "Jag beställde en penna och fick två halva pennor. Tekniskt sett fick jag mer än jag förväntade mig. Mycket nöjd!",
+    "rating": 5,
+    "date": "2026-07-19"
+  },
+  {
+    "product": "night sky",
+    "name": "Christer Fuglesang",
+    "title": "Rymdklass!",
+    "text": "Äntligen en penna som klarar av att göra sitt jobb även när resten av skrivbordet befinner sig 400 km bort. Skriver fint, känns gedigen och har noll problem med tyngdlöshet. 5/5 – skulle skjuta upp igen.",
+    "rating": 5,
+    "date": "2026-07-03"
+  },
+  {
+    "product": "night sky",
+    "name": "Daniel",
+    "title": "Houston, vi har en penna",
+    "text": "Testade den i rymden och den fungerade bättre än min kommunikation med familjen. Bläcket kommer ut, pennan flyter inte iväg och den ser dessutom cool ut. Vad mer behöver man?",
+    "rating": 5,
+    "date": "2026-07-05"
+  },
+  {
+    "product": "night sky",
+    "name": "Emma",
+    "title": "Ett litet steg för pennan…",
+    "text": "Fantastisk penna! Jag tappade den i noll gravitation och fick jaga den genom hela kabinen. Men när jag väl fångade den skrev den perfekt. Lite motion ingår alltså på köpet.",
+    "rating": 5,
+    "date": "2026-07-07"
+  },
+  {
+    "product": "night sky",
+    "name": "Marcus",
+    "title": "Kosmiskt bra",
+    "text": "Den här pennan är så bra att jag nästan började skriva min inköpslista på månen. Fungerar upp och ner, åt sidan och förmodligen även i en galax långt, långt borta.",
+    "rating": 5,
+    "date": "2026-07-09"
+  },
+  {
+    "product": "night sky",
+    "name": "Nora",
+    "title": "Perfekt för astronauter",
+    "text": "Skriver smidigt, känns stabil och kräver inte att man trycker ner den mot ett skrivbord som faktiskt ligger still. Ett måste för alla som har lite för mycket fritid i omloppsbana.",
+    "rating": 5,
+    "date": "2026-07-11"
+  },
+  {
+    "product": "night sky",
+    "name": "Andreas",
+    "title": "Testad under extrema förhållanden",
+    "text": "Jag tog med pennan till rymden och den klarade både tyngdlöshet, stress och en astronaut som absolut vägrade lämna tillbaka den. Imponerande.",
+    "rating": 5,
+    "date": "2026-07-13"
+  },
+  {
+    "product": "night sky",
+    "name": "Lisa",
+    "title": "Intergalaktisk kvalitet",
+    "text": "Jag har använt många pennor genom åren, men den här är den första som får mig att känna att jag borde ha en rymddräkt när jag använder den. Mycket hög klass.",
+    "rating": 5,
+    "date": "2026-07-15"
+  },
+  {
+    "product": "night sky",
+    "name": "Christer Fuglesang",
+    "title": "Fuglesangs rymdrecension",
+    "text": "Jag tog med pennan upp och den fungerade alldeles utmärkt. Det enda problemet var att jag blev så imponerad att jag glömde skriva ner vad jag skulle skriva. 5 stjärnor.",
+    "rating": 5,
+    "date": "2026-07-17"
+  },
+  {
+    "product": "night sky",
+    "name": "Henrik",
+    "title": "Bättre än förväntat",
+    "text": "Köpte den för att kunna skriva i rymden. Den gjorde precis det. Inga konstigheter, inga läckor och inget dramatiskt pennhaveri. Nästan lite antiklimaktiskt – vilket är ett gott betyg.",
+    "rating": 5,
+    "date": "2026-07-19"
+  },
+  {
+    "product": "night sky",
+    "name": "Johanna",
+    "title": "För jordbor och astronauter",
+    "text": "Fantastisk penna. Fungerar på jorden, i luften och i rymden. Jag har ännu inte testat den på Jupiter, men med tanke på resultatet hittills har jag höga förväntningar.",
+    "rating": 5,
+    "date": "2026-07-21"
+  },
+  {
+    "product": "Gripen",
+    "name": "Julius Caesar",
+    "title": "Veni, vidi, skrev",
+    "text": "En fantastisk fjäderpenna. Kom, såg, skrev. Bläcket flödade nästan lika elegant som mina militära triumfer. Jag rekommenderar den till alla som vill erövra ett pergament eller två. Kram från Julius Caesar",
+    "rating": 5,
+    "date": "2026-07-05"
+  },
+  {
+    "product": "Gripen",
+    "name": "Amanda",
+    "title": "Elegant värre",
+    "text": "Otroligt lyxig känsla! Man känner sig genast 300 % mer bildad när man håller den i handen. Har inte skrivit något särskilt klokt än, men det ser väldigt imponerande ut.",
+    "rating": 5,
+    "date": "2026-07-07"
+  },
+  {
+    "product": "Gripen",
+    "name": "Karl",
+    "title": "Fjäder i hatten",
+    "text": "Äntligen en penna som matchar min hatt! Lätt, elegant och perfekt för att skriva långa brev som ingen egentligen bad om.",
+    "rating": 5,
+    "date": "2026-07-09"
+  },
+  {
+    "product": "Gripen",
+    "name": "Louise",
+    "title": "Historiskt bra",
+    "text": "Testade den för att skriva en inköpslista och råkade istället börja formulera ett manifest. Det är något med fjädern som får en att känna sig viktig.",
+    "rating": 5,
+    "date": "2026-07-11"
+  },
+  {
+    "product": "Gripen",
+    "name": "Martin",
+    "title": "Bläck med attityd",
+    "text": "Den skriver fantastiskt, så länge man kommer ihåg att doppa fjädern i bläck. Glömde det en gång och fick en mycket torr recension.",
+    "rating": 5,
+    "date": "2026-07-13"
+  },
+  {
+    "product": "Gripen",
+    "name": "Ebba",
+    "title": "Perfekt för dramatik",
+    "text": "Varje mening känns viktigare när den skrivs med fjäderpenna. ”Glöm inte mjölken” har aldrig låtit så episkt.",
+    "rating": 5,
+    "date": "2026-07-15"
+  },
+  {
+    "product": "Gripen",
+    "name": "Alexander",
+    "title": "Romantiskt värre",
+    "text": "Skrev ett kärleksbrev med denna och fick inget svar. Men brevet såg fantastiskt ut, så jag ger ändå fem stjärnor.",
+    "rating": 5,
+    "date": "2026-07-17"
+  },
+  {
+    "product": "Gripen",
+    "name": "Matilda",
+    "title": "Förvånansvärt snabb",
+    "text": "Jag trodde fjäderpenna skulle vara långsamt. Sedan skrev jag 14 sidor på två timmar och upptäckte att 13 av dem handlade om hur bra pennan är.",
+    "rating": 5,
+    "date": "2026-07-19"
+  },
+  {
+    "product": "Gripen",
+    "name": "Gustav",
+    "title": "Pergamentets bästa vän",
+    "text": "Den här pennan och ett fint pergament är en match made in heaven. Saknar bara en skrivare som kan förklara varför jag behöver så mycket bläck.",
+    "rating": 5,
+    "date": "2026-07-21"
+  },
+  {
+    "product": "Gripen",
+    "name": "Clara",
+    "title": "En fjäderlätt skrivupplevelse",
+    "text": "Otroligt lätt i handen och mycket roligare än en vanlig kulspetspenna. Varje gång jag använder den känner jag mig som en medeltida munk med deadlines.",
+    "rating": 5,
+    "date": "2026-07-23"
+  },
+  {
+    "product": "Star-pen",
+    "name": "Alice",
+    "title": "Fem delar, en stjärna",
+    "text": "Jag köpte en penna och fick något som ser ut som en mindre konstellation. Skriver utmärkt och är dessutom redo för astronomiska anteckningar.",
+    "rating": 5,
+    "date": "2026-07-07"
+  },
+  {
+    "product": "Star-pen",
+    "name": "William",
+    "title": "En riktig stjärna",
+    "text": "Den här pennan är bokstavligen en stjärna. Fem delar som tillsammans bildar något fantastiskt. Jag har aldrig känt mig så professionell när jag skriver ”köp mjölk”.",
+    "rating": 5,
+    "date": "2026-07-09"
+  },
+  {
+    "product": "Star-pen",
+    "name": "Olivia",
+    "title": "NASA borde ringa",
+    "text": "Otroligt imponerande konstruktion. Fem delar, stjärnform och noll behov av teleskop. Det enda som saknas är en liten nedräkning innan jag börjar skriva.",
+    "rating": 5,
+    "date": "2026-07-11"
+  },
+  {
+    "product": "Star-pen",
+    "name": "Hugo",
+    "title": "Femma av fem",
+    "text": "Fem delar och fem stjärnor. Det kan knappast vara en slump. Pennan förstår uppenbarligen matematik bättre än jag gör.",
+    "rating": 5,
+    "date": "2026-07-13"
+  },
+  {
+    "product": "Star-pen",
+    "name": "Ella",
+    "title": "Stjärnstatus",
+    "text": "Jag tog fram pennan på jobbet och tre kollegor frågade var jag fått den. Nu har jag fått stjärnstatus på kontoret. Tyvärr fortfarande samma lön.",
+    "rating": 5,
+    "date": "2026-07-15"
+  },
+  {
+    "product": "Star-pen",
+    "name": "Lucas",
+    "title": "Monteringsglädje",
+    "text": "Det bästa är att pennan består av fem delar. Det känns lite som att bygga sitt eget rymdskepp, fast slutresultatet är att man kan skriva ner telefonnumret till pizzerian.",
+    "rating": 5,
+    "date": "2026-07-17"
+  },
+  {
+    "product": "Star-pen",
+    "name": "Alva",
+    "title": "Galaktiskt bra",
+    "text": "Skriver smidigt och ser fantastiskt ut. Jag skulle säga att den är out of this world, men då måste jag först hitta ett sätt att ta med den till Mars.",
+    "rating": 5,
+    "date": "2026-07-19"
+  },
+  {
+    "product": "Star-pen",
+    "name": "Noah",
+    "title": "En lysande idé",
+    "text": "Jag trodde först att jag hade fått en leksak. Sedan skrev jag med den och insåg att det faktiskt är en riktigt bra penna. Nu använder jag den för både seriösa anteckningar och extremt oseriösa teckningar.",
+    "rating": 5,
+    "date": "2026-07-21"
+  },
+  {
+    "product": "Star-pen",
+    "name": "Wilma",
+    "title": "Fem delar av ren magi",
+    "text": "Varje del verkar ha ett eget jobb, och tillsammans blir de en stjärna. Jag förstår inte riktigt hur det fungerar, men jag är mycket imponerad.",
+    "rating": 5,
+    "date": "2026-07-23"
+  },
+  {
+    "product": "Star-pen",
+    "name": "Leo",
+    "title": "Skrivandets superstjärna",
+    "text": "Den här pennan har mer stjärnglans än min senaste presentation på jobbet. Fem delar, snygg design och väldigt rolig att använda. Kollegorna är avundsjuka – uppdraget slutfört!",
+    "rating": 5,
+    "date": "2026-07-25"
+  },
+
+  {
+    "name": "Anna",
+    "title": "Riktigt bra penna",
+    "text": "Skriver väldigt fint och ligger bra i handen. Har snabbt blivit en favorit på skrivbordet.",
+    "rating": 5
+  },
+  {
+    "name": "Marcus",
+    "title": "Över förväntan",
+    "text": "Köpte den mest för att testa men blev faktiskt väldigt imponerad. Bra känsla och rolig att använda.",
+    "rating": 5
+  },
+  {
+    "name": "Emelie",
+    "title": "Ny favorit",
+    "text": "Har provat många pennor genom åren men den här hamnade direkt bland favoriterna. Rekommenderas!",
+    "rating": 5
+  },
+  {
+    "name": "Daniel",
+    "title": "Mycket nöjd",
+    "text": "Bra kvalitet, snygg design och skriver precis som man vill. Inte mycket mer att önska.",
+    "rating": 5
+  },
+  {
+    "name": "Sara",
+    "title": "Bättre än väntat",
+    "text": "Trodde inte att jag skulle ha så starka åsikter om en penna, men här är vi. Väldigt nöjd!",
+    "rating": 5
+  },
+  {
+    "name": "Niklas",
+    "title": "Fem stjärnor",
+    "text": "Gör exakt det en bra penna ska göra och känns dessutom riktigt bra i handen. Fem stjärnor utan tvekan.",
+    "rating": 5
+  },
+  {
+    "name": "Johanna",
+    "title": "Kommer köpa fler",
+    "text": "Beställde en för att prova och det lär bli fler. Väldigt trevlig att skriva med och känns välgjord.",
+    "rating": 5
+  },
+  {
+    "name": "Andreas",
+    "title": "Enkel att rekommendera",
+    "text": "Snygg, bekväm och skriver bra. Svårt att hitta något att klaga på faktiskt.",
+    "rating": 5
+  },
+  {
+    "name": "Malin",
+    "title": "Precis vad jag ville ha",
+    "text": "Bra känsla, fin design och fungerade precis som förväntat. Väldigt nöjd med köpet.",
+    "rating": 5
+  },
+  {
+    "name": "Peter",
+    "title": "Förvånansvärt trevlig",
+    "text": "Det är trots allt bara en penna, tänkte jag. Nu gömmer jag den för resten av familjen. Det säger väl det mesta.",
+    "rating": 5
+  }
+]
